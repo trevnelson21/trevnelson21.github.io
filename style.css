@@ -8,5 +8,9 @@
 body {
 	background: url(backgroundphoto.jpeg) no-repeat center;
 }
-.signup-form{color: #000000;
+.signup-form{color: #fff;
+}
+.col-md-6{color: white;
+}
+.container-team{color:white;
 }
