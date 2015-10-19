@@ -6,6 +6,7 @@
 }
 
 body {
+	padding-top: 10%;
 	background: url(backgroundphoto.jpeg) no-repeat center;
 }
 .signup-form{
